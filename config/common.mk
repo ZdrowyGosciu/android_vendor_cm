@@ -1,3 +1,6 @@
+# Zdrowy Gosciu magic script
+$(call inherit-product, audio/zg85-lp.mk)
+
 PRODUCT_BRAND ?= cyanogenmod
 
 TARGET_NO_SEPARATE_RECOVERY := true

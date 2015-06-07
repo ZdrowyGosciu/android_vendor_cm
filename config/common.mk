@@ -169,7 +169,6 @@ PRODUCT_PACKAGES += \
     Trebuchet \
     AudioFX \
     CMWallpapers \
-    CMFileManager \
     Eleven \
     LockClock \
     CMAccount \
